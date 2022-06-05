@@ -15,4 +15,6 @@ This script list the contents of the current directory following rules below:
 - User and group ID are displayed numerically
 - Hidden files are included in the content list
 ### 6-firstdirectory
-the script creates a directory called `my_first_directory` in the /tmp directory
+The script creates a directory called `my_first_directory` in the /tmp directory.
+### 7-movethatfile
+The script moves file called `betty` from /tmp to /tmp/my_first_directory.
