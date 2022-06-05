@@ -18,3 +18,5 @@ This script list the contents of the current directory following rules below:
 The script creates a directory called `my_first_directory` in the /tmp directory.
 ### 7-movethatfile
 The script moves file called `betty` from /tmp to /tmp/my_first_directory.
+### 8-firstdelete
+The script deletes the `file` from /tmp/my_first_directory.
