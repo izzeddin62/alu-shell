@@ -24,3 +24,5 @@ The script deletes the `file` from /tmp/my_first_directory.
 The script deletes the `/tmp/my_first_directory` directory.
 ### 10-back
 The script change the working directory to the previous one.
+### 11-lists
+The script lists all files including hidden in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
