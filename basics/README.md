@@ -34,3 +34,5 @@ The script creates a symbolic link to /bin/ls called `__ls__` in the current dir
 The script copies all the html file in the current directory into the parent directory that do not exist in the parent directory or have a newer version than the one in the parent directory.
 ### 15-lets_move
 The script moves all file starting with a capital letter from the current directory to `/tmp/u`.
+### 16-clean_emacs
+The script deletes all file ending with `~`
