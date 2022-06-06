@@ -35,4 +35,6 @@ The script copies all the html file in the current directory into the parent dir
 ### 15-lets_move
 The script moves all file starting with a capital letter from the current directory to `/tmp/u`.
 ### 16-clean_emacs
-The script deletes all file ending with `~`
+The script deletes all file ending with `~`.
+### 17-tree
+The script create the following directories: `welcome/`, `welcome/to`, `welcome/to/school/`.
