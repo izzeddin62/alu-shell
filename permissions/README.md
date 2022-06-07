@@ -13,3 +13,5 @@ The script creates an empty file called `hello`
 The script adds execute permission to the owner of the hello file.
 ### 6-multiple_permissions
 The script adds execute permission to the owner's group of the hello file.
+### 7-everybody
+The script adds execute permission to everyone for the hello file.
