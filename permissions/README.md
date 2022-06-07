@@ -27,3 +27,5 @@ The script give execute permission to all the subdirectories in the current dire
 The script create ./my_dir directory with 751 permissions.
 ### 13-change_group
 The script changes hello file group to `school`.
+### 14-change_owner_and_group
+ The script changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
