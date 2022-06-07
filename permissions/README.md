@@ -15,3 +15,5 @@ The script adds execute permission to the owner of the hello file.
 The script adds execute permission to the owner's group of the hello file.
 ### 7-everybody
 The script adds execute permission to everyone for the hello file.
+### 8-James_Bond
+The script removes all permission from owner and owner's group and give all permission to other users for the hello file.
