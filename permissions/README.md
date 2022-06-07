@@ -19,3 +19,7 @@ The script adds execute permission to everyone for the hello file.
 The script removes all permission from owner and owner's group and give all permission to other users for the hello file.
 ### 9-John_Doe
 The script gives the owner all permission, only read and execute to the owner's group, and only write and execute permissions to other users for the hello file.
+### 10-mirror_permissions
+The script changes the hello file permission to mirror the olleh file permissions
+### 11-directories_permissions
+The script give execute permission to all the subdirectories in the current directory.
