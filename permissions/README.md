@@ -23,3 +23,5 @@ The script gives the owner all permission, only read and execute to the owner's 
 The script changes the hello file permission to mirror the olleh file permissions
 ### 11-directories_permissions
 The script give execute permission to all the subdirectories in the current directory.
+### 12-directory_permissions
+The script create ./my_dir directory with 751 permissions.
