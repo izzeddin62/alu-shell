@@ -25,3 +25,5 @@ The script changes the hello file permission to mirror the olleh file permission
 The script give execute permission to all the subdirectories in the current directory.
 ### 12-directory_permissions
 The script create ./my_dir directory with 751 permissions.
+### 13-change_group
+The script changes hello file group to `school`.
