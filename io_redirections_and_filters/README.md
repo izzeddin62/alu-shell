@@ -7,3 +7,5 @@ The script prints a confuse smiley `"(Ôo)'`.
 The script prints the content of the `/etc/passwd` file.
 ### 3-twofiles
 The script prints the content of the `/etc/passwd` and `etc/hosts` files.
+### 4-lastlines
+The script prints the last 10 line of the `/etc/passwd` file.
