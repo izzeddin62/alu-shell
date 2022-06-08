@@ -14,4 +14,6 @@ The script prints the first 10 lines of the `/etc/passwd` file.
 ### 6-third_line
 The script prints the third line of the `iacta`.
 ### 7-file
-The script creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line. 
+The script creates a file named exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text Best School ending by a new line. 
+### 8-cwd_state
+The script writes into the file `ls_cwd_content` the result of the command ls -la.
