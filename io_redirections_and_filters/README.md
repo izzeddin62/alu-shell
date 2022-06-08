@@ -12,4 +12,6 @@ The script prints the last 10 lines of the `/etc/passwd` file.
 ### 5-firstlines
 The script prints the first 10 lines of the `/etc/passwd` file.
 ### 6-third_line
-The script prints the third line of the `iacta`. 
+The script prints the third line of the `iacta`.
+### 7-file
+The script creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line. 
