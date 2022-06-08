@@ -10,4 +10,6 @@ The script prints the content of the `/etc/passwd` and `etc/hosts` files.
 ### 4-lastlines
 The script prints the last 10 lines of the `/etc/passwd` file.
 ### 5-firstlines
-The scripts prints the first 10 lines of the `/etc/passwd` file.
+The script prints the first 10 lines of the `/etc/passwd` file.
+### 6-third_line
+The script prints the third line of the `iacta`. 
