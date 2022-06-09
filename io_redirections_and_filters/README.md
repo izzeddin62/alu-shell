@@ -33,3 +33,5 @@ The script takes a list of words as input and prints only words that appear exac
 The script displays lines containing the pattern “root” from the file /etc/passwd.
 ### 15-countthatword
 The script display athe number of lines that contain the pattern “bin” in the file `/etc/passwd`.
+### 16-whatsnext
+The script displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
