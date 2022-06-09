@@ -51,3 +51,5 @@ The script displays all users and their home directories, sorted by users.
 The script finds all empty files and directories in the current directory and all sub-directories.
 ### 24-gifs
 The script lists all the files with a .gif extension in the current directory and all its sub-directories.
+### 25-acrostic
+The script decodes acrostics that use the first letter of each line.
