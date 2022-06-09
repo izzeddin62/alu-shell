@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd
+cut -d- -f1 | sort | uniq -c | sort -hr |  head  -n 11 | cut -c 9- | tr -d "[[:blank:]]"
