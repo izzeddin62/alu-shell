@@ -35,3 +35,5 @@ The script displays lines containing the pattern “root” from the file /etc/p
 The script display athe number of lines that contain the pattern “bin” in the file `/etc/passwd`.
 ### 16-whatsnext
 The script displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+### 17-hidethisword
+The script displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
