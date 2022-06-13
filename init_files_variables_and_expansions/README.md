@@ -13,3 +13,5 @@ The script lists environment variables.
 The script lists all local variables and environment variables, and functions.
 ### 6-create_local_variable
 The script creates a new local variable with name `BEST` and value `School`.
+### 7-create_global_variable
+The script creates a new global variable with name `BEST` and value `School`
