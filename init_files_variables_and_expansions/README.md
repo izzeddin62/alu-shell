@@ -7,3 +7,5 @@ The scripts prints hello user, where user is the current Linux user.
 The script Adds /action to the PATH.
 ### 3-paths
 The script counts the number of directories in the PATH.
+### 4-global_variables
+The script lists environment variables.
