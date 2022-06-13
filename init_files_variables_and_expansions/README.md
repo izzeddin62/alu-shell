@@ -9,3 +9,5 @@ The script Adds /action to the PATH.
 The script counts the number of directories in the PATH.
 ### 4-global_variables
 The script lists environment variables.
+### 5-local_variables
+The script lists all local variables and environment variables, and functions.
