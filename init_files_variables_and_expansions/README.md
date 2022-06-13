@@ -29,3 +29,5 @@ The script prints all possible combinations of two letters, except oo.
 The script prints a number with two decimal places, followed by a new line.
 ### 14-decimal_to_hexadecimal
 The script converts a number from base 10 to base 16.
+### 15-rot13
+The script encodes and decodes text using the rot13 encryption.
