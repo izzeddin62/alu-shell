@@ -15,3 +15,5 @@ The script lists all local variables and environment variables, and functions.
 The script creates a new local variable with name `BEST` and value `School`.
 ### 7-create_global_variable
 The script creates a new global variable with name `BEST` and value `School`
+### 8-true_knowledge
+The script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
