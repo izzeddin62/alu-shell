@@ -31,3 +31,5 @@ The script prints a number with two decimal places, followed by a new line.
 The script converts a number from base 10 to base 16.
 ### 15-rot13
 The script encodes and decodes text using the rot13 encryption.
+### 16-odd
+The script prints every other line from the input, starting with the first line.
