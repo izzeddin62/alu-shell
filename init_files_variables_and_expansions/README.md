@@ -25,3 +25,5 @@ The script displays the result of BREATH to the power LOVE.
 The script converts a number from base 2 to base 10.
 ### 12-combinations
 The script prints all possible combinations of two letters, except oo.
+### 13-print_float
+The script prints a number with two decimal places, followed by a new line.
