@@ -11,3 +11,5 @@ The script counts the number of directories in the PATH.
 The script lists environment variables.
 ### 5-local_variables
 The script lists all local variables and environment variables, and functions.
+### 6-create_local_variable
+The script creates a new local variable with name `BEST` and value `School`.
