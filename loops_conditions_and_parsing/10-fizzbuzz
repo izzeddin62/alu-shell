@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+# the script displays numbers from 1 to 100
+count=1;
+while ((count < 101));
+do
+	if ((count%3 == 0 && count%5 == 0));
+	then
+		echo FizzBuzz;
+	elif ((count%3 == 0))
+	then
+		echo Buzz;
+	elif ((count%5 == 0))
+	then 
+		echo Fuzz;
+	else 
+		echo $count;
+	fi
+	((count+=1));
+done	
