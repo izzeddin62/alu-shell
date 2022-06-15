@@ -8,7 +8,7 @@ do
 		echo FizzBuzz;
 	elif ((count%3 == 0))
 	then
-		echo Fuzz;
+		echo Fizz;
 	elif ((count%5 == 0))
 	then 
 		echo Buzz;
