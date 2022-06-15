@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# the script displays the time for 12 hours and 59 minutes.
+count=0;
+while ((count <=12)); do 
+	echo Hour: $count;
+	innercount=1;
+	while ((innercount < 60)); do echo $innercount; ((innercount+=1)); done
+	((count+=1));
+done
