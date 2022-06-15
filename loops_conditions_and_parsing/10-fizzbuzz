@@ -8,10 +8,10 @@ do
 		echo FizzBuzz;
 	elif ((count%3 == 0))
 	then
-		echo Buzz;
+		echo Fuzz;
 	elif ((count%5 == 0))
 	then 
-		echo Fuzz;
+		echo Buzz;
 	else 
 		echo $count;
 	fi
