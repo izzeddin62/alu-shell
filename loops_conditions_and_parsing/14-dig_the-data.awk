@@ -6,5 +6,10 @@
 
 END {
   for (x in arr)
-    print arr[x], x
+	if(arr[x] < 10)
+		  print arr[x]"  ", x;
+  	else if(arr[x] >= 10 && arr[x] < 100)
+		print arr[x]" ", x;
+	else
+    		print arr[x], x;
 }
