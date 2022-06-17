@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 # the script  groups visitors by IP and HTTP status code, and displays this data.
-./13-lets_parse_apache_logs | sort | uniq -c | sort -rn
+awk -f 13-lets_parse_apache_logs.awk  apache-access.log | sort | uniq -c | sort -nr
