@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # the script displays lines containing the bash word.
-ps -C bash -e f u 1
+ps -C bash f u 1
 # shellcheck disable=SC2009
